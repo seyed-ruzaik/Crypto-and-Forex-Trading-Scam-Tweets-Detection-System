@@ -1,0 +1,8 @@
+tweepy==4.12.0
+Flask==2.2.2
+clean-text==0.6.0
+gunicorn
+pickle5
+scikit-learn==1.0.2
+nltk==3.7
+cleantext==1.1.4

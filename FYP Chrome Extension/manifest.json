@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "version": "1.0.0",
+
+  "name": "Crypto/Forex Trading Scam Tweets Detector",
+  "description": "Detect crypto or forex trading related scams on twitter",
+
+  "browser_action": {
+    "default_popup": "index.html"
+  },
+  "icons": {
+    "128": "logo.png"
+  },
+  "permissions": ["tabs",  "*://*.twitter.com/*"]
+}
